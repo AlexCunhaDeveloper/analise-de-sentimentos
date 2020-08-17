@@ -12,6 +12,7 @@ Se você deseja testar aplicação, os instaladores estão listados abaixo:
 
 > pip install virtualenv
 > virtualenv nome_virtualenv
+
 > [Sobre virualenv](https://www.treinaweb.com.br/blog/criando-ambientes-virtuais-para-projetos-python-com-o-virtualenv/)
 
 **Dependências** 
