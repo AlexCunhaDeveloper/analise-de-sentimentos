@@ -6,6 +6,9 @@
 ## Instalação
 Se você deseja testar aplicação, os instaladores estão listados abaixo:
 
+>Obs: É necessario ter uma conta developer no twitter e watson IBM.
+> Crie um arquivo auth.py passando os tokes e keys.
+
 **[Python 3](https://www.python.org/)**
 
 **Virtualenv**
