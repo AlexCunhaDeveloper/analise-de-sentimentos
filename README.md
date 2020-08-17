@@ -6,5 +6,14 @@
 ## Instalação
 Se você deseja testar aplicação, os instaladores estão listados abaixo:
 
-[Python 3](https://www.python.org/)
+**[Python 3](https://www.python.org/)**
 
+**Virtualenv**
+
+> pip install virtualenv
+> virtualenv nome_virtualenv
+> [Sobre virualenv](https://www.treinaweb.com.br/blog/criando-ambientes-virtuais-para-projetos-python-com-o-virtualenv/)
+
+**Dependências** 
+
+> pip install -r requirements.txt
