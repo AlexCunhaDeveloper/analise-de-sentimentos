@@ -3,6 +3,11 @@
 
 [![Analise](http://img.youtube.com/vi/r_lVtSnz50I/0.jpg)](http://www.youtube.com/watch?v=r_lVtSnz50I "Vídeo da aplicação ")
 
+Aplicação minera tweets a partir de uma palavra chave, limpa sujeiras que retorna no texto e analisa o sentimento do texto.
+O retorno do resultado da analise é: Positivo, Negativo ou neutro.
+
+
+
 ## Instalação
 Se você deseja testar aplicação, os instaladores estão listados abaixo:
 
