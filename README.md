@@ -12,7 +12,7 @@ O retorno do resultado da analise é: Positivo, Negativo ou neutro.
 Se você deseja testar aplicação, os instaladores estão listados abaixo:
 
 >Obs: É necessario ter uma conta developer no twitter e watson IBM.
-> Crie um arquivo auth.py passando os tokes e keys.
+> Crie na raiz do projeto um arquivo auth.py passando os token's e keys.
 
 **[Python 3](https://www.python.org/)**
 
